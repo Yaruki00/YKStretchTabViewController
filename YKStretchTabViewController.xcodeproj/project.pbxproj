@@ -8,20 +8,50 @@
 
 /* Begin PBXBuildFile section */
 		D6C36F2B1E014EFA00250239 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C36F2A1E014EFA00250239 /* AppDelegate.swift */; };
-		D6C36F2D1E014EFA00250239 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C36F2C1E014EFA00250239 /* ViewController.swift */; };
+		D6C36F2D1E014EFA00250239 /* SampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C36F2C1E014EFA00250239 /* SampleViewController.swift */; };
 		D6C36F301E014EFA00250239 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F2E1E014EFA00250239 /* Main.storyboard */; };
 		D6C36F321E014EFA00250239 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F311E014EFA00250239 /* Assets.xcassets */; };
 		D6C36F351E014EFA00250239 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F331E014EFA00250239 /* LaunchScreen.storyboard */; };
+		D6C36F401E01530A00250239 /* YKStretchTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C36F3F1E01530A00250239 /* YKStretchTabViewController.swift */; };
+		D6C36F501E01684F00250239 /* tab1:3_off.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F421E01684F00250239 /* tab1:3_off.png */; };
+		D6C36F511E01684F00250239 /* tab1:3_on.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F431E01684F00250239 /* tab1:3_on.png */; };
+		D6C36F521E01684F00250239 /* tab1:4_off.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F441E01684F00250239 /* tab1:4_off.png */; };
+		D6C36F531E01684F00250239 /* tab1:4_on.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F451E01684F00250239 /* tab1:4_on.png */; };
+		D6C36F541E01684F00250239 /* tab2:3_off.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F461E01684F00250239 /* tab2:3_off.png */; };
+		D6C36F551E01684F00250239 /* tab2:3_on.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F471E01684F00250239 /* tab2:3_on.png */; };
+		D6C36F561E01684F00250239 /* tab2:4_off.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F481E01684F00250239 /* tab2:4_off.png */; };
+		D6C36F571E01684F00250239 /* tab2:4_on.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F491E01684F00250239 /* tab2:4_on.png */; };
+		D6C36F581E01684F00250239 /* tab3:3_off.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F4A1E01684F00250239 /* tab3:3_off.png */; };
+		D6C36F591E01684F00250239 /* tab3:3_on.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F4B1E01684F00250239 /* tab3:3_on.png */; };
+		D6C36F5A1E01684F00250239 /* tab3:4_off.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F4C1E01684F00250239 /* tab3:4_off.png */; };
+		D6C36F5B1E01684F00250239 /* tab3:4_on.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F4D1E01684F00250239 /* tab3:4_on.png */; };
+		D6C36F5C1E01684F00250239 /* tab4:4_off.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F4E1E01684F00250239 /* tab4:4_off.png */; };
+		D6C36F5D1E01684F00250239 /* tab4:4_on.png in Resources */ = {isa = PBXBuildFile; fileRef = D6C36F4F1E01684F00250239 /* tab4:4_on.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D6C36F271E014EFA00250239 /* YKStretchTabViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YKStretchTabViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6C36F2A1E014EFA00250239 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D6C36F2C1E014EFA00250239 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D6C36F2C1E014EFA00250239 /* SampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleViewController.swift; sourceTree = "<group>"; };
 		D6C36F2F1E014EFA00250239 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D6C36F311E014EFA00250239 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6C36F341E014EFA00250239 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D6C36F361E014EFA00250239 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6C36F3F1E01530A00250239 /* YKStretchTabViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YKStretchTabViewController.swift; sourceTree = "<group>"; };
+		D6C36F421E01684F00250239 /* tab1:3_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab1:3_off.png"; sourceTree = "<group>"; };
+		D6C36F431E01684F00250239 /* tab1:3_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab1:3_on.png"; sourceTree = "<group>"; };
+		D6C36F441E01684F00250239 /* tab1:4_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab1:4_off.png"; sourceTree = "<group>"; };
+		D6C36F451E01684F00250239 /* tab1:4_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab1:4_on.png"; sourceTree = "<group>"; };
+		D6C36F461E01684F00250239 /* tab2:3_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab2:3_off.png"; sourceTree = "<group>"; };
+		D6C36F471E01684F00250239 /* tab2:3_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab2:3_on.png"; sourceTree = "<group>"; };
+		D6C36F481E01684F00250239 /* tab2:4_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab2:4_off.png"; sourceTree = "<group>"; };
+		D6C36F491E01684F00250239 /* tab2:4_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab2:4_on.png"; sourceTree = "<group>"; };
+		D6C36F4A1E01684F00250239 /* tab3:3_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab3:3_off.png"; sourceTree = "<group>"; };
+		D6C36F4B1E01684F00250239 /* tab3:3_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab3:3_on.png"; sourceTree = "<group>"; };
+		D6C36F4C1E01684F00250239 /* tab3:4_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab3:4_off.png"; sourceTree = "<group>"; };
+		D6C36F4D1E01684F00250239 /* tab3:4_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab3:4_on.png"; sourceTree = "<group>"; };
+		D6C36F4E1E01684F00250239 /* tab4:4_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab4:4_off.png"; sourceTree = "<group>"; };
+		D6C36F4F1E01684F00250239 /* tab4:4_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tab4:4_on.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,13 +85,44 @@
 			isa = PBXGroup;
 			children = (
 				D6C36F2A1E014EFA00250239 /* AppDelegate.swift */,
-				D6C36F2C1E014EFA00250239 /* ViewController.swift */,
+				D6C36F2C1E014EFA00250239 /* SampleViewController.swift */,
 				D6C36F2E1E014EFA00250239 /* Main.storyboard */,
 				D6C36F311E014EFA00250239 /* Assets.xcassets */,
 				D6C36F331E014EFA00250239 /* LaunchScreen.storyboard */,
 				D6C36F361E014EFA00250239 /* Info.plist */,
+				D6C36F3E1E01530A00250239 /* lib */,
+				D6C36F411E01684F00250239 /* image */,
 			);
 			path = YKStretchTabViewController;
+			sourceTree = "<group>";
+		};
+		D6C36F3E1E01530A00250239 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				D6C36F3F1E01530A00250239 /* YKStretchTabViewController.swift */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		D6C36F411E01684F00250239 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				D6C36F421E01684F00250239 /* tab1:3_off.png */,
+				D6C36F431E01684F00250239 /* tab1:3_on.png */,
+				D6C36F441E01684F00250239 /* tab1:4_off.png */,
+				D6C36F451E01684F00250239 /* tab1:4_on.png */,
+				D6C36F461E01684F00250239 /* tab2:3_off.png */,
+				D6C36F471E01684F00250239 /* tab2:3_on.png */,
+				D6C36F481E01684F00250239 /* tab2:4_off.png */,
+				D6C36F491E01684F00250239 /* tab2:4_on.png */,
+				D6C36F4A1E01684F00250239 /* tab3:3_off.png */,
+				D6C36F4B1E01684F00250239 /* tab3:3_on.png */,
+				D6C36F4C1E01684F00250239 /* tab3:4_off.png */,
+				D6C36F4D1E01684F00250239 /* tab3:4_on.png */,
+				D6C36F4E1E01684F00250239 /* tab4:4_off.png */,
+				D6C36F4F1E01684F00250239 /* tab4:4_on.png */,
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +157,7 @@
 				TargetAttributes = {
 					D6C36F261E014EFA00250239 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = X5EF57U232;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,8 +185,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6C36F561E01684F00250239 /* tab2:4_off.png in Resources */,
+				D6C36F5A1E01684F00250239 /* tab3:4_off.png in Resources */,
+				D6C36F511E01684F00250239 /* tab1:3_on.png in Resources */,
+				D6C36F541E01684F00250239 /* tab2:3_off.png in Resources */,
+				D6C36F5D1E01684F00250239 /* tab4:4_on.png in Resources */,
+				D6C36F5C1E01684F00250239 /* tab4:4_off.png in Resources */,
+				D6C36F5B1E01684F00250239 /* tab3:4_on.png in Resources */,
+				D6C36F531E01684F00250239 /* tab1:4_on.png in Resources */,
+				D6C36F551E01684F00250239 /* tab2:3_on.png in Resources */,
+				D6C36F501E01684F00250239 /* tab1:3_off.png in Resources */,
 				D6C36F351E014EFA00250239 /* LaunchScreen.storyboard in Resources */,
+				D6C36F521E01684F00250239 /* tab1:4_off.png in Resources */,
+				D6C36F571E01684F00250239 /* tab2:4_on.png in Resources */,
 				D6C36F321E014EFA00250239 /* Assets.xcassets in Resources */,
+				D6C36F581E01684F00250239 /* tab3:3_off.png in Resources */,
+				D6C36F591E01684F00250239 /* tab3:3_on.png in Resources */,
 				D6C36F301E014EFA00250239 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,8 +212,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D6C36F2D1E014EFA00250239 /* ViewController.swift in Sources */,
+				D6C36F2D1E014EFA00250239 /* SampleViewController.swift in Sources */,
 				D6C36F2B1E014EFA00250239 /* AppDelegate.swift in Sources */,
+				D6C36F401E01530A00250239 /* YKStretchTabViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +335,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = X5EF57U232;
 				INFOPLIST_FILE = YKStretchTabViewController/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Yuta-Kawabe.YKStretchTabViewController";
@@ -270,6 +349,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = X5EF57U232;
 				INFOPLIST_FILE = YKStretchTabViewController/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Yuta-Kawabe.YKStretchTabViewController";
@@ -297,6 +378,7 @@
 				D6C36F3B1E014EFA00250239 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
